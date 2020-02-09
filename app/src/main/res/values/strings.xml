@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SyncByte</string><string name="title_activity_main">MainActivity</string>
+    <string name="title_fingerprint">One-touch Sign In</string>
+    <string name="desc_fingerprint">Please place your fingertip on the scanner to verify your identity</string>
+    <string name="note">(Fingerprint sign in makes your app login much faster. Your device should have at least one fingerprint registered in device settings)</string>
+    <string name="title_activity_home">Fingerprint</string>
+    <string name="activity_home_desc">You have successfully logged in with fingerprint authentication</string>
+    <string name="activity_home_note">Close and re-open the app to see the fingerprint auth screen again</string>
+    <string name="signup_string"><u>Click here to Register</u></string>
+    <string name="check_in">Check in</string>
+    <string name="check_out">Check out</string>
+    <string name="date">Date</string>
+    <string name="button_save">Save</string>
+    <string name="register_here">Register Here</string>
+    <string name="hint_full_name">Full Name</string>
+    <string name="hint_10_digit_mobile_number">10 Digit Mobile Number</string>
+    <string name="hint_24_07_1990">24/07/1990</string>
+    <string name="hint_email_email_com">email@email.com</string>
+    <string name="hint_employee_id">Employee ID</string>
+    <string name="hintpassword">Password</string>
+    <string name="signup_button_submit">Submit</string>
+    <string name="empty_list">Empty List..</string>
+    <string name="unlock_with_fingerprint">Unlock With Fingerprint</string>
+</resources>
